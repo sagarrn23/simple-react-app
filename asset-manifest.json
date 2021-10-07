@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-react-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/simple-react-app/static/js/main.aca784e7.chunk.js",
+    "main.js.map": "/simple-react-app/static/js/main.aca784e7.chunk.js.map",
+    "runtime-main.js": "/simple-react-app/static/js/runtime-main.28285c3d.js",
+    "runtime-main.js.map": "/simple-react-app/static/js/runtime-main.28285c3d.js.map",
+    "static/js/2.686be635.chunk.js": "/simple-react-app/static/js/2.686be635.chunk.js",
+    "static/js/2.686be635.chunk.js.map": "/simple-react-app/static/js/2.686be635.chunk.js.map",
+    "static/js/3.316ecc0f.chunk.js": "/simple-react-app/static/js/3.316ecc0f.chunk.js",
+    "static/js/3.316ecc0f.chunk.js.map": "/simple-react-app/static/js/3.316ecc0f.chunk.js.map",
+    "index.html": "/simple-react-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/simple-react-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.686be635.chunk.js.LICENSE.txt": "/simple-react-app/static/js/2.686be635.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simple-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28285c3d.js",
+    "static/js/2.686be635.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.aca784e7.chunk.js"
+  ]
+}
