@@ -1,0 +1,17 @@
+name: Github Package
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  build_image:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile --tag simple-react-app:$(date +%s)
+
+    
