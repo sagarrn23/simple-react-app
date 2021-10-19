@@ -1,6 +1,6 @@
 {
   "name": "@sagarrn23/simple-react-app",
-  "homepage": "https://sagarrn23.github.io/simple-react-app",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
